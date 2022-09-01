@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . -type d -exec chmod a+x {} \;
+chmod -exec r+w+x -d ugo+x
