@@ -1,2 +1,4 @@
 #!/bin/bash
-echo '/action' > $PATH
+echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/action
+
+' > $PATH
