@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-school
+shell variables and expansion
